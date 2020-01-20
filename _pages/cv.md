@@ -27,7 +27,7 @@ Work experience
 Skills
 ======
 * Python for machine learning model development.
-* Scala and Spark for developing features.
+* Scala and Spark for data processing.
 * SQL for ad hoc queries.
 
 
