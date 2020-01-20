@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Content to be added.
+I'm a research scientist at Amazon on the sellers insights team. Before that I was a data scientist at ASML. Before that I was a grad student in Math.
