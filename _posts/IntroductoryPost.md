@@ -1,7 +1,7 @@
 ---
 title: 'Hello World Blog Post'
 date: 2020-01-10
-permalink: /posts/2020/01/InitialBlogPost/
+permalink: /posts/2020/01/IntroductoryPost/
 tags:
   - First Post
 ---
