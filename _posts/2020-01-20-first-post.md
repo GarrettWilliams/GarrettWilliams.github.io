@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 1'
+title: 'Hello'
 date: 2020-01-01
 permalink: /posts/2020/01/blog-post-1/
 tags:
