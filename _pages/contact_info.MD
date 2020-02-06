@@ -9,5 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<b>Contact: </b> 
+<b>Contact Information: </b>
+---
 e-mail: williams.garrettm@gmail.com
